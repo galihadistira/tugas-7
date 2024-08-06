@@ -10,7 +10,6 @@ body {
 }
 
 .contact-container {
-    max-width: 500px;
     display: flex;
     background-color: #fff;
     border-radius: 8px;
@@ -111,3 +110,4 @@ body {
 .contact-form button:hover {
     background-color: #2ecc71;
 }
+
